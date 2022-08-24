@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(253, 253, 253);
+}
+
+.uno{
+    background-color: rgb(217, 202, 248);
+    text-align: center;
+}
+.dos{
+    background-color: rgb(240, 220, 220);
+    text-align: left;
+}
+.imagen1{
+    width: 100px;
+}
+
+.tres {
+    padding: 0;
+    margin-top: 20px;
+}
+.footer{
+    background-color: antiquewhite;
+}
+
+.Buscador {
+   margin-top: 20px;
+   width: 50%;
+   height: 100%;
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+}
